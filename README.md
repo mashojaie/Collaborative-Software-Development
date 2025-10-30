@@ -17,13 +17,13 @@ By the end of this workshop, your code won’t just *run*—it will be **clear, 
 
 | Time          | Duration | Topic 1                          | Topic 2                          |
 |---------------|----------|----------------------------------|----------------------------------|
-| 9:00 – 10:30  | 1.5 hrs  | Welcome & Icebreaker             | Why Git? Managing Research Code Over Time |
+| 9:00 – 10:30  | 1.5 hrs  | Welcome, Overview on Workshop               | Why Git? Managing Research Code Over Time      |
 | 10:30 – 10:45 | 15 min   | Coffee Break                          |                                  |
-| 10:45 – 12:15 | 1.5 hrs  | Git Offline (Commits, Branches)  | Git Online (GitHub: Repos, Issues, PRs) |
+| 10:45 – 12:15 | 1.5 hrs  | Introduction to Python              | Python Packages for Research |
 | 12:15 – 13:30 | 1 hr     | Lunch & Prayer Break          |                                  |
-| 13:30 – 14:45 | 1.5 hrs  | Clean Code & Documentation for Science | Reproducible Environments (Conda/venv) |
+| 13:30 – 14:45 | 1.5 hrs  | Git Offline (Commits, Branches)  | Git Online (GitHub: Repos, Issues, PRs) |
 | 14:45 – 15:00 | 15 min   | Coffee Break                          |                                  |
-| 15:00 – 16:30 | 1.5 hrs  | Project Management for Research  | Setting Up a GitHub Repo for Your Lab |
+| 15:00 – 16:30 | 1.5 hrs  | Agile mindset in Research  | Project Management for Research |
 | 16:30 – 16:45 | 15 min   | Coffee Break                          |                                  |
 | 16:45 – 18:00 | 1.25 hrs | Form Teams & Define Projects     | Write a Backlog for Your Cognitive Science Project |
 
@@ -33,9 +33,9 @@ By the end of this workshop, your code won’t just *run*—it will be **clear, 
 
 | Time          | Duration | Topic 1                          | Topic 2                          |
 |---------------|----------|----------------------------------|----------------------------------|
-| 9:00 – 10:30  | 1.5 hrs  | Modular Code Structure           | Writing Unit Tests for Analysis Pipelines |
+| 9:00 – 10:30  | 1.5 hrs  | Clean Code & Documentation for Science | Modular Code Structure           |
 | 10:30 – 10:45 | 15 min   | Coffee Break                          |                                  |
-| 10:45 – 12:15 | 1.5 hrs  | Visualizing Data & Results (Matplotlib/Seaborn) | Making Figures Reproducible & Shareable |
+| 10:45 – 12:15 | 1.5 hrs  | Reproducible Environments (Conda/venv) | Writing Unit Tests for Analysis Pipelines |
 | 12:15 – 13:30 | 1 hr     | Lunch & Prayer Break          |                                  |
 | 13:30 – 14:45 | 1.5 hrs  | Daily Stand-up & Project Work    | Collaborative Coding on GitHub |
 | 14:45 – 15:00 | 15 min   | Coffee Break                          |                                  |
@@ -47,13 +47,15 @@ By the end of this workshop, your code won’t just *run*—it will be **clear, 
 
 | Time          | Duration | Topic 1                          | Topic 2                          |
 |---------------|----------|----------------------------------|----------------------------------|
-| 9:00 – 10:30  | 1.5 hrs  | Software Release Practices & CI/CD | Packaging & Docker for Reproducibility |
+| 9:00 – 10:30  | 1.5 hrs  |  Introduction to Visualizing | Visualizing Data & Results |
 | 10:30 – 10:45 | 15 min   | Coffee Break                          |                                  |
-| 10:45 – 12:15 | 1.5 hrs  | Intellectual Property & Open Science in Cognitive Research | Workshop Retrospective & Feedback |
+| 10:45 – 12:15 | 1.5 hrs  | CI/CD, Packaging & Docker    | Copyright and licensing, Workshop Feedback |
 | 12:15 – 13:30 | 1 hr     | Lunch & Prayer Break          |                                  |
-| 13:30 – 14:45 | 1.5 hrs  | Finalize Project for Presentation| Finalize Project for Presentation|
+| 13:30 – 14:45 | 1.5 hrs  | Team Project Work                | Team Project Work                |
 | 14:45 – 15:00 | 15 min   | Coffee Break                          |                                  |
-| 15:00 – 16:30 | 1.5 hrs  | Team Project Presentations        | Team Project Presentations       |
+| 15:00 – 16:30 | 1.5 hrs  | Finalize Project for Presentation| Finalize Project for Presentation|
+| 16:30 – 16:45 | 15 min   | Coffee Break                          |                                  |
+| 16:45 – 18:00 | 1.25 hrs | Team Project Presentations        | Team Project Presentations       |
 
 ---
 
@@ -74,7 +76,7 @@ This workshop helps you **turn your scripts into research infrastructure**.
 Before attending, please:
 1. Install **[Git](https://git-scm.com/)**
 2. Create a **[GitHub account](https://github.com/)**
-3. Have **Python 3.8+** installed (with `pip`)
+3. Have **Python 3.8+** installed (**[Download](https://www.python.org/downloads/)** or install with `pip`)
 4. Install **Conda** (recommended) or be familiar with `venv`/`pipenv`
 5. (Optional but helpful) Install **[VS Code](https://code.visualstudio.com/)** or your preferred editor
 
