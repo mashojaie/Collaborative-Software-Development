@@ -92,11 +92,6 @@ All phases should include a README file explaining how to use your toolkit, well
 
 ---
 
-## Evaluation
-
-Your project will be assessed on functionality (does each phase work and can you demonstrate the complete pipeline?), code quality (clear organization, reasonable naming, appropriate comments), integration (do modules work together with consistent interfaces?), and output quality (clear visualizations and informative reports).
-
----
 
 ## Getting Started
 
