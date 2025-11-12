@@ -17,9 +17,9 @@ By the end of this workshop, your code won’t just *run*—it will be **clear, 
 
 | Time          | Duration | Topic 1                          | Topic 2                          |
 |---------------|----------|----------------------------------|----------------------------------|
-| 9:00 – 10:30  | 1.5 hrs  | Welcome, Overview on Workshop               | Why Git? Managing Research Code Over Time      |
+| 9:00 – 10:30  | 1.5 hrs  | Welcome, Overview on Workshop               | Introduction to Python      |
 | 10:30 – 10:45 | 15 min   | Coffee Break                          |                                  |
-| 10:45 – 12:15 | 1.5 hrs  | Introduction to Python              | Python Packages for Research |
+| 10:45 – 12:15 | 1.5 hrs  | Why Git? Managing Research Code Over Time              | Python Packages for Research |
 | 12:15 – 13:30 | 1 hr     | Lunch & Prayer Break          |                                  |
 | 13:30 – 14:45 | 1.5 hrs  | Git Offline (Commits, Branches)  | Git Online (GitHub: Repos, Issues, PRs) |
 | 14:45 – 15:00 | 15 min   | Coffee Break                          |                                  |
